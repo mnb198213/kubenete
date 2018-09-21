@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.1
 MAINTAINER mnb1982123@hotmail.com
 
